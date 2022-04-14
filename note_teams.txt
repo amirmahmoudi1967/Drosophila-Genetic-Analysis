@@ -1,0 +1,28 @@
+horloge circadiene se calent sur cycle jour nuit
+comprendre l'horloge qui regule le rythme veille/sommeil
+changement de photopériode (équinoxe)
+3 rythme :
+-16 de jour 8 de nuit avec lumière normale
+- 12 12
+- 16 8 mais avec red light
+sommeil activité locomotrice des mouches
+
+Rythme choisi : colonne R
+valeur dans bin : nombre de fois la mouche passe devant rayon infrarouge
+Un bin dure 30 min
+donc 48 bin par jour
+
+gene responsable du rythme circadien mutation
+
+que des mâles dans l'experience
+
+cry02 : cryptochrome sensible lumière bleu
+norpAp24 : mouche aveugle
+ort1hisCl134 : enelve les neurotransmetteurs (hislamyde) aussi aveugle
+
+ACP sur les bins paquet sur les temps de la journée (matin, soir etc....)
+
+Caractériser chacun des clusters avec des profils d'activité
+
+Etape 2: faire parafac
+mode ligné du parafac pour faire du clustering
